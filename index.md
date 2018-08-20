@@ -4,4 +4,4 @@ This is a demo web page for [Honest.](https://www.honestmake.com) Use the livech
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Get in touch with manu@honestmake.com for all your questions.
