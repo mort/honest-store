@@ -1,4 +1,5 @@
 {% include fb.html %}
+{% include widget.html %}
 
 ## Welcome to our very chic health and beauty boutique
 
