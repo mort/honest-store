@@ -6,4 +6,4 @@ This is a demo web page for [Honest.](https://www.honestmake.com) Use the livech
 
 Get in touch with manu@honestmake.com for all your questions.
 
-{{include "fb"}}
+{% include fb.js %}
